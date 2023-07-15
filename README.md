@@ -1,6 +1,6 @@
 # AB_Testing_Facebook_Biddings
 
-!(/hgatasagun/AB_Testing_Facebook_Biddings/blob/main/AB%20test.jpg)
+!(/main/AB%20test.jpg)
 
 
 Facebook introduced a new bidding type called "average bidding" as an alternative to the existing
