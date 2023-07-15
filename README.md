@@ -18,7 +18,8 @@ ad clicks, and the revenue generated from those ads. There are two separate data
 Maximum Bidding was applied to the Control group, while Average Bidding was applied to the Test group.
 
 
-Variables:
+
+### Variables:
 
 impression: Number of ad impressions
 
