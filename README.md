@@ -1,26 +1,25 @@
 # AB_Testing_Facebook_Biddings
 
-![Açıklama](https://github.com/hgatasagun/AB_Testing_Facebook_Biddings/blob/main/AB%20test.jpg)
+![Açıklama](https://github.com/hgatasagun/AB_Testing_Facebook_Biddings/blob/main/AB_test.jpg)
 
 
 
-Facebook introduced a new bidding type called "average bidding" as an alternative to the existing
+Facebook introduced a new bidding type called "average bidding" as an alternative to the existing "maximum bidding" type. One of the companies
 
-"maximum bidding" type. One of the companies which use the recent bidding type has decided to test this new feature and wants
+which use the recent bidding type has decided to test this new feature and wants to conduct an A/B test to determine if average bidding brings 
 
-to conduct an A/B test to determine if average bidding brings more conversions than maximum bidding. 
-
-For the company, the success metric is 'Purchase'.
+more conversions than maximum bidding.For t 
 
 
 
 ## Dataset Story
 
-This dataset contains web analytics data for a company, including information about the number of ad impressions,
+This dataset contains web analytics data for a company, including information about the number of ad impressions, ad clicks, and the revenue 
 
-ad clicks, and the revenue generated from those ads. There are two separate datasets: Control and Test groups.
+generated from those ads. There are two separate datasets: Control and Test groups. Maximum Bidding was applied to the Control group, while 
 
-Maximum Bidding was applied to the Control group, while Average Bidding was applied to the Test group.
+Average Bidding was applied to the Test group.
+
 
 
 
