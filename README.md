@@ -4,9 +4,7 @@
 
 
 
-Facebook introduced a new bidding type called "average bidding" as an alternative to the existing "maximum bidding" type. One of the companies
-which use the recent bidding type has decided to test this new feature and wants to conduct an A/B test to determine if average bidding brings 
-more conversions than maximum bidding.For t 
+Facebook introduced a new bidding type called "average bidding" as an alternative to the existing "maximum bidding" type. In this study, the statistical significance of any differences in the number of product purchases made by customers after clicking on ads will be examined, based on the utilization of these bidding methods.
 
 
 
