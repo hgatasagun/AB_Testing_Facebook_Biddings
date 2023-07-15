@@ -1,5 +1,8 @@
 # AB_Testing_Facebook_Biddings
 
+!(/hgatasagun/AB_Testing_Facebook_Biddings/blob/main/AB%20test.jpg)
+
+
 Facebook introduced a new bidding type called "average bidding" as an alternative to the existing
 
 "maximum bidding" type. One of the companies which use the recent bidding type has decided to test this new feature and wants
@@ -8,7 +11,6 @@ to conduct an A/B test to determine if average bidding brings more conversions t
 
 For the company, the success metric is 'Purchase'.
 
-<img src="[https://example.com/fotograf.png" alt="Açıklama](https://www.canva.com/design/DAFosoKbKnM/FukTFwrHwLi5Ub1xg4ya_A/edit?utm_content=DAFosoKbKnM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">
 
 
 ## Dataset Story
