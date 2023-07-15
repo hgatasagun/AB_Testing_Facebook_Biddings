@@ -1,6 +1,6 @@
 # AB_Testing_Facebook_Biddings
 
-![Açıklama](https://github.com/hgatasagun/AB_Testing_Facebook_Biddings/blob/main/AB_test.jpg)
+                  ![Açıklama](https://github.com/hgatasagun/AB_Testing_Facebook_Biddings/blob/main/AB_test.jpg)
 
 
 
