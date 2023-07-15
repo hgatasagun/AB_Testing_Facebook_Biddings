@@ -21,7 +21,7 @@ Average Bidding was applied to the Test group.
 
 ### Variables:
 
-impression: Number of ad impressions
+Impression: Number of ad impressions
 
 Click: Number of clicks on the ads
 
