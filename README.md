@@ -8,6 +8,8 @@ to conduct an A/B test to determine if average bidding brings more conversions t
 
 For the company, the success metric is 'Purchase'.
 
+https://www.canva.com/design/DAFosoKbKnM/FukTFwrHwLi5Ub1xg4ya_A/edit?utm_content=DAFosoKbKnM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ## Dataset Story
 
