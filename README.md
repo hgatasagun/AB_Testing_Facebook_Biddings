@@ -1,4 +1,4 @@
-# AB_Testing_Facebook_Biddings
+# AB Testing: Analyzing Facebook Bidding Methods for Product Purchases
 
 
 ![Açıklama](https://github.com/hgatasagun/AB_Testing_Facebook_Biddings/blob/main/AB_test.jpg)
