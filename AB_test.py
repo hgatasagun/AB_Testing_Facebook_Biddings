@@ -91,13 +91,6 @@ def shapiro_test(x, y):
         print('Test Stat = %.4f, p-value = %.4f' % (test_stat_x, pvalue_x),
               'HO is not rejected, the assumption of normal distribution is satisfied')
 
-    if pvalue_y < 0.05:
-        print('Test Stat = %.4f, p-value = %.4f' % (test_stat_y, pvalue_y),
-              'HO is rejected, the assumption of normal distribution is not satisfied')
-    else:
-        print('Test Stat = %.4f, p-value = %.4f' % (test_stat_y, pvalue_y),
-              'HO is not rejected, the assumption of normal distribution is satisfied')
-
 shapiro_test(control_purchase, test_purchase)
 # Test Stat = 0.9773, p-value = 0.5891 HO is not rejected, the assumption of normal distribution is satisfied
 # Test Stat = 0.9589, p-value = 0.1541 HO is not rejected, the assumption of normal distribution is satisfied
